@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+  /* margin: 0; */
+  background: #e5eaac;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.container {
+  padding: 20px;
+}
